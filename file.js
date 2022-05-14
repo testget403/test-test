@@ -1,2 +1,1 @@
-{tamer
-}
+{tamer}
